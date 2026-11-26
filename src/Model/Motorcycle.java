@@ -29,5 +29,18 @@ public class Motorcycle {
         setPrice(engineSize, type, primaryColour, secondaryColour);
     }
 
+    public String setEngineSize(String engineSize) {
+
+    }
+
+    public String setType(String type) {
+
+    }
+
+    public String setPrimaryColour(String primaryColour) {
+
+    }
+
+    
 
 }
